@@ -2,6 +2,8 @@
 
 This project is a responsive website for a creative agency, built using **HTML** and **CSS** only. It features a clean, modern design with a focus on showcasing the agency’s portfolio and services.
 
+![Creative-Agency-Website](images/home-screen.png)
+[Live Demo](https://mumar000.github.io/creative-agency-website/)
 
 ### **Key Features**
  **Responsive Design**: A fully responsive layout that adapts to different screen sizes, providing an optimal experience on desktop, tablet, and mobile devices.
@@ -21,5 +23,3 @@ This project is a responsive website for a creative agency, built using **HTML**
 ### Project Highlights
 This project demonstrates proficiency in front-end design, focusing on user experience and responsiveness. It’s a great example of creating visually appealing, functional websites using only HTML and CSS. 
 
-Check out the live demo and source code on my GitHub! 😊# Creative Agency 
-[Live Demo](https://mumar000.github.io/creative-agency-website/)
